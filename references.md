@@ -28,3 +28,4 @@
     - [The pracrtical dev](https://dev.to/)
 - Libros gratuitos en español
     - https://es.linkedin.com/pulse/libros-de-programaci%C3%B3n-en-espa%C3%B1ol-gratuitos-adolfo-luzardo-cabrera
+- Artículo de Scrum - https://www.mountaingoatsoftware.com/blog/ten-sentences-with-all-the-scrum-master-advice-youll-ever-need?utm_source=Iterable&utm_medium=email&utm_campaign=mgs_blog_2018May22&SNSubscribed=true
